@@ -6,6 +6,6 @@ Variant scraper for Shopify based websites that uses the .xml extension of a pro
 
 
 # What I Learned
-* C# Web requests
+* C# .NET web requests
 * How to use the Shopify API and the .xml extension
 * Parsing XML
