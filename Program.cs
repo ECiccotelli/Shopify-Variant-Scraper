@@ -1,5 +1,4 @@
 ﻿/*
- * Author: Eric Ciccotelli
  * Date Published: 1/3/2019
  * This program scrapes a shopify product url's .xml extension to find variants and display them
  * Add to cart options are also available as they can be used to directly add the item to cart and go to checkout
